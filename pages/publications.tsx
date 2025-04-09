@@ -125,7 +125,7 @@ import {
                     </a>
                 </h3>
                 <p className="text-sm mt-2">
-                    <a href="https://scholar.google.com.eg/citations?view_op=list_works&hl=en&hl=en&user=E4nxRX0AAAAJ" className="hover:underline hover:text-blue-600" className="hover:underline hover:text-blue-600" target="_blank">Mohamed Shalan</a>,{" "}
+                    <a href="https://scholar.google.com.eg/citations?view_op=list_works&hl=en&hl=en&user=E4nxRX0AAAAJ" className="hover:underline hover:text-blue-600" target="_blank">Mohamed Shalan</a>,{" "}
                     <a href="https://github.com/RTimothyEdwards" className="hover:underline hover:text-blue-600" target="_blank">Tim Edwards</a>
                 </p>
                 </div>
@@ -146,7 +146,7 @@ import {
                 </h3>
                 <p className="text-sm mt-2">
                     <a href="#" className="hover:underline hover:text-blue-600" target="_blank">Ahmed Ghazy</a>,{" "}
-                    <a href="https://scholar.google.com.eg/citations?view_op=list_works&hl=en&hl=en&user=E4nxRX0AAAAJ" className="hover:underline hover:text-blue-600" className="hover:underline hover:text-blue-600" target="_blank">Mohamed Shalan</a>
+                    <a href="https://scholar.google.com.eg/citations?view_op=list_works&hl=en&hl=en&user=E4nxRX0AAAAJ" className="hover:underline hover:text-blue-600" target="_blank">Mohamed Shalan</a>
                 </p>
                 </div>
                 <div className="flex flex-col items-start md:items-end">
@@ -167,7 +167,7 @@ import {
                 <p className="text-sm mt-2">
                     <a href="#" className="hover:underline hover:text-blue-600" target="_blank">Habiba Gamal</a>,{" "}
                     <a href="#" className="hover:underline hover:text-blue-600" target="_blank">Amr Gouhar</a>,{" "}
-                    <a href="https://scholar.google.com.eg/citations?view_op=list_works&hl=en&hl=en&user=E4nxRX0AAAAJ" className="hover:underline hover:text-blue-600" className="hover:underline hover:text-blue-600" target="_blank">Mohamed Shalan</a>
+                    <a href="https://scholar.google.com.eg/citations?view_op=list_works&hl=en&hl=en&user=E4nxRX0AAAAJ" className="hover:underline hover:text-blue-600" target="_blank">Mohamed Shalan</a>
                 </p>
                 </div>
                 <div className="flex flex-col items-start md:items-end">
@@ -188,7 +188,7 @@ import {
                 <p className="text-sm mt-2">
                     <a href="https://github.com/donn" className="hover:underline hover:text-blue-600" target="_blank">Mohamed Gaber</a>,{" "}
                     <a href="https://github.com/Manarabdelaty" className="hover:underline hover:text-blue-600" target="_blank">Manar Abdelatty</a>,{" "}
-                    <a href="https://scholar.google.com.eg/citations?view_op=list_works&hl=en&hl=en&user=E4nxRX0AAAAJ" className="hover:underline hover:text-blue-600" className="hover:underline hover:text-blue-600" target="_blank">Mohamed Shalan</a>
+                    <a href="https://scholar.google.com.eg/citations?view_op=list_works&hl=en&hl=en&user=E4nxRX0AAAAJ" className="hover:underline hover:text-blue-600" target="_blank">Mohamed Shalan</a>
                 </p>
                 </div>
                 <div className="flex flex-col items-start md:items-end">
@@ -210,7 +210,7 @@ import {
                     <a href="#" className="hover:underline hover:text-blue-600" target="_blank">Habiba Hassanien</a>,{" "}
                     <a href="#" className="hover:underline hover:text-blue-600" target="_blank">Fady Abo El Magd</a>,{" "}
                     <a href="#" className="hover:underline hover:text-blue-600" target="_blank">Ali El-Said</a>,{" "}
-                    <a href="https://scholar.google.com.eg/citations?view_op=list_works&hl=en&hl=en&user=E4nxRX0AAAAJ" className="hover:underline hover:text-blue-600" className="hover:underline hover:text-blue-600" target="_blank">Mohamed Shalan</a>
+                    <a href="https://scholar.google.com.eg/citations?view_op=list_works&hl=en&hl=en&user=E4nxRX0AAAAJ" className="hover:underline hover:text-blue-600" target="_blank">Mohamed Shalan</a>
                 </p>
                 </div>
                 <div className="flex flex-col items-start md:items-end">
@@ -229,7 +229,7 @@ import {
                     </a>
                 </h3>
                 <p className="text-sm mt-2">
-                    <a href="https://scholar.google.com.eg/citations?view_op=list_works&hl=en&hl=en&user=E4nxRX0AAAAJ" className="hover:underline hover:text-blue-600" className="hover:underline hover:text-blue-600" target="_blank">Mohamed Shalan</a>,{" "}
+                    <a href="https://scholar.google.com.eg/citations?view_op=list_works&hl=en&hl=en&user=E4nxRX0AAAAJ" className="hover:underline hover:text-blue-600" target="_blank">Mohamed Shalan</a>,{" "}
                     <a href="https://vivo.brown.edu/display/sreda" className="hover:underline hover:text-blue-600" target="_blank">Sherief Reda</a>
                 </p>
                 </div>
@@ -249,7 +249,7 @@ import {
                     </a>
                 </h3>
                 <p className="text-sm mt-2">
-                    <a href="https://scholar.google.com.eg/citations?view_op=list_works&hl=en&hl=en&user=E4nxRX0AAAAJ" className="hover:underline hover:text-blue-600" className="hover:underline hover:text-blue-600" target="_blank">Mohamed Shalan</a>,{" "}
+                    <a href="https://scholar.google.com.eg/citations?view_op=list_works&hl=en&hl=en&user=E4nxRX0AAAAJ" className="hover:underline hover:text-blue-600" target="_blank">Mohamed Shalan</a>,{" "}
                     <a href="https://vivo.brown.edu/display/sreda" className="hover:underline hover:text-blue-600" target="_blank">Sherief Reda</a>
                 </p>
                 </div>
@@ -269,7 +269,7 @@ import {
                     </a>
                 </h3>
                 <p className="text-sm mt-2">
-                    <a href="https://scholar.google.com.eg/citations?view_op=list_works&hl=en&hl=en&user=E4nxRX0AAAAJ" className="hover:underline hover:text-blue-600" className="hover:underline hover:text-blue-600" target="_blank">Mohamed Shalan</a>,{" "}
+                    <a href="https://scholar.google.com.eg/citations?view_op=list_works&hl=en&hl=en&user=E4nxRX0AAAAJ" className="hover:underline hover:text-blue-600" target="_blank">Mohamed Shalan</a>,{" "}
                     <a href="https://vivo.brown.edu/display/sreda" className="hover:underline hover:text-blue-600" target="_blank">Sherief Reda</a>
                 </p>
                 </div>
