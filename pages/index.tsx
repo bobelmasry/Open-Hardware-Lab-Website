@@ -5,11 +5,9 @@ import Link from "next/link"
 
 import {
   NavigationMenu,
-  NavigationMenuContent,
   NavigationMenuItem,
   NavigationMenuLink,
   NavigationMenuList,
-  NavigationMenuTrigger,
   navigationMenuTriggerStyle,
 } from "@/components/ui/navigation-menu"
 
@@ -21,9 +19,14 @@ import Image from "next/image"
 
 import { cn } from "@/lib/utils"
 
+import Head from "next/head"
+
 export default function Home() {
   return (
     <>
+    <Head>
+            <title>AUC Open Hardware Lab</title>
+        </Head>
 <NavigationMenu className="fixed left-1/2 transform -translate-x-1/2 z-50 mt-4 sm:mt-8 md:mt-12 max-w-[90%] sm:max-w-[75%] md:max-w-[80%] lg:max-w-none">
   <NavigationMenuList className="flex gap-6 sm:gap-12 md:gap-16 lg:gap-30 w-auto">
     <NavigationMenuItem>
